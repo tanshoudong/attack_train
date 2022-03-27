@@ -8,19 +8,19 @@
 
 
 ## 运行环境
-ubantu 16.04
-cuda 10.2
-cudnn 8.2
-NVIDIA Tesla P40 显卡 24G显存
-python 3.6
-pytorch 1.6
+ubantu 16.04  
+cuda 10.2  
+cudnn 8.2  
+NVIDIA Tesla P40 显卡 24G显存  
+python 3.6  
+pytorch 1.6  
 
 ## 实验参数
-batch_size 1024
-embedding_dim 128
-训练集 18w
-验证集 1w
-测试集 1w
+batch_size 1024  
+embedding_dim 128  
+训练集 18w  
+验证集 1w  
+测试集 1w  
 
 ## 特别说明
 1.本次实验数据以字为单位输入模型，没有使用预训练词向量，初始化向量维度为128
