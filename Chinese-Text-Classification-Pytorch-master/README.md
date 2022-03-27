@@ -16,7 +16,7 @@ python 3.6
 pytorch 1.6
 
 ## 实验参数
-batsize 1024
+batch_size 1024
 embedding_dim 128
 训练集 18w
 验证集 1w
