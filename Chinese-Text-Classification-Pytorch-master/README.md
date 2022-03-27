@@ -34,7 +34,7 @@ embedding_dim 128
 
 baseline+attack_train|precision|recall|macro_F1
 --|--|--|--
-TextCNN|90.63%|90.62%|90.62%s
+TextCNN|90.63%|90.62%|90.62%
 TextCNN+FGSM|91.67%|91.65%|91.65%
 TextCNN+FGM|90.96%|90.93%|90.94%
 TextCNN+PGD|90.82%|90.80%|90.80%
